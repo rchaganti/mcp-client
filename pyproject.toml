@@ -1,0 +1,13 @@
+[project]
+name = "azure-mcp-client"
+version = "0.1.0"
+description = "Azure MCP Client"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.49.0",
+    "azure-mgmt-resource>=23.3.0",
+    "azure-mgmt-subscription>=3.1.1",
+    "mcp>=1.5.0",
+    "python-dotenv>=1.0.1",
+]

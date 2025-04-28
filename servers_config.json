@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+      "azure-mcp-server": {
+        "command": "uv",
+        "args": [
+          "--directory",
+          "C:\\GitHub\\azure-mcp-server",
+          "run",
+          "azure-mcp-server"
+        ]
+      }
+    },
+    "globalShortcut": ""
+  }
